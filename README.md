@@ -1,7 +1,7 @@
 #  SwellAR
 
 An augmented reality ocean currents visualization prototype. 
-Part of the project Museum 4punkt0 / “xstream Digital” of the Stiftung Preußischer Kulturbesitz.
+Part of the project museum4punkt0 / “xstream Digital” of the Stiftung Preußischer Kulturbesitz.
 
 ## Dependencies
 
